@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(201, 125, 33);
+}
+
+.footerlink{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0 2%;
+}
+.item{
+    list-style: none;
+    padding: 0 2%;
+    margin-top: 2%;
+}
